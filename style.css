@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f4f4f4;;
 }
 
 .container {
@@ -41,13 +41,13 @@ input[type="submit"] {
 }
 
 input[type="submit"] {
-    background-color: #003cff;
+    background-color: #07c500;
     color: #fff;
     cursor: pointer;
 }
 
 input[type="submit"]:hover {
-    background-color: rgb(17, 1, 90);
+    background-color: rgba(3, 134, 9, 0.877);
 }
 
 .result {
