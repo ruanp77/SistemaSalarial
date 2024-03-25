@@ -41,7 +41,7 @@ Você pode personalizar o estilo da página modificando o arquivo `style.css`. A
 
 Se encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request neste repositório.
 
-## Autor 🙂	
+## Autor 
 
 Este sistema foi desenvolvido por [Ruan Pablo](https://github.com/ruanp77).
  
